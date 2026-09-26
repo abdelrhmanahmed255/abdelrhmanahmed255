@@ -42,42 +42,39 @@
   Currently developing full-stack SaaS features at <b>Taqdum Software Technology</b> for the <i>Pupilera</i> platform with comprehensive RTL internationalization.
 </p>
 
-<!-- Side-by-Side Profile Cards (No 4-space indentation to avoid code-block bug) -->
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-
-### 🎓 Background & Experience
-- 💼 **Current Role:** Full-Stack Developer at **Taqdum Software Technology**
-- 🏛️ **Education:** B.Sc. in IT — **Zagazig University** (Faculty of Computers & Information)
-- 👥 **Leadership:** Former **Head of Student Union** (led cross-functional teams)
-- 📜 **Certified:** Mendix Rapid Developer & Route Academy Diplomas
-- 💡 **Philosophy:** Building accessible, pixel-accurate, and robust web applications
-
+<h4>🎓 Background &amp; Experience</h4>
+<ul>
+<li>💼 <b>Current Role:</b> Full-Stack Developer at <b>Taqdum Software Technology</b></li>
+<li>🏛️ <b>Education:</b> B.Sc. in IT — <b>Zagazig University</b> (Faculty of Computers &amp; Information)</li>
+<li>👥 <b>Leadership:</b> Former <b>Head of Student Union</b> (led cross-functional initiatives)</li>
+<li>📜 <b>Certified:</b> Mendix Rapid Developer &amp; Route Academy Diplomas</li>
+<li>💡 <b>Philosophy:</b> Building accessible, pixel-accurate, and robust web applications</li>
+</ul>
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
-
 </td>
 <td width="50%" valign="top">
-
-### ⚙️ Architecture & Systems
-- 🔌 **REST API Design:** Scalable, modular backends with **Node.js & Express.js**
-- 🛡️ **Security & Auth:** JWT auth, role-based access control (RBAC), and validation
-- 🗄️ **Databases:** Schema validation & query optimization with **MongoDB / Mongoose**
-- 💳 **Integrations:** Stripe payments, AI-assisted tooling, and PDF/Word generators
-- 🌐 **Localization:** Arabic & English RTL/i18n internationalization
-
+<h4>⚙️ Architecture &amp; Systems</h4>
+<ul>
+<li>🔌 <b>REST API Design:</b> Scalable, modular backends with <b>Node.js &amp; Express.js</b></li>
+<li>🛡️ <b>Security &amp; Auth:</b> JWT auth, role-based access control (RBAC), and validation</li>
+<li>🗄️ <b>Databases:</b> Schema validation &amp; query optimization with <b>MongoDB / Mongoose</b></li>
+<li>💳 <b>Integrations:</b> Stripe payments, AI-assisted tooling, and dynamic PDF generators</li>
+<li>🌐 <b>Localization:</b> Arabic &amp; English RTL/i18n internationalization</li>
+</ul>
 <p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
-
 </td>
 </tr>
 </table>
@@ -104,60 +101,44 @@
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-
-### ⚡ CVLogs — AI Resume Builder
-- AI-powered suggestions, dynamic PDF/Word resume generation, watermark protection, and Stripe payment integration.
-- Built responsive UI with Formik, Yup validation, and Axios.
-<br/>
+<h4>⚡ CVLogs — AI Resume Builder</h4>
+<p>AI-powered suggestions, dynamic PDF/Word resume generation, watermark protection, and Stripe payment checkout.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
 <img src="https://img.shields.io/badge/PDF--Lib-E0234E?style=flat-square" />
 </p>
-
 </td>
 <td width="50%" valign="top">
-
-### 🏥 HIRSTO — Telehealth Platform
-- Telehealth patient care platform with e-prescriptions, dynamic medical dashboards, and full EMR integrations.
-- Smooth animations with Framer Motion and strict TypeScript typing.
-<br/>
+<h4>🏥 HIRSTO — Telehealth Platform</h4>
+<p>Telehealth patient care platform with e-prescriptions, dynamic medical dashboards, and full EMR integrations.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
 </p>
-
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 🔒 Sara7a & Booking REST APIs
-- Production REST APIs with MVC separation, JWT route guards, refresh token lifecycle, and Mongoose anti-mass-assignment filters.
-- Centralized error-handling and input validation middleware.
-<br/>
+<h4>🔒 Sara7a &amp; Booking REST APIs</h4>
+<p>Production REST APIs with MVC architecture, JWT route guards, refresh token lifecycle, and Mongoose validation.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square" />
 </p>
-
 </td>
 <td width="50%" valign="top">
-
-### 🏫 Pupilera & MadrasaPro (EdTech SaaS)
-- Multi-tenant school platforms featuring full Arabic/English RTL internationalization (`next-intl`), timed tests, and dashboard systems.
-- Global state managed with Redux Toolkit and React Query.
-<br/>
+<h4>🏫 Pupilera &amp; MadrasaPro (EdTech SaaS)</h4>
+<p>Multi-tenant school platforms featuring full Arabic/English RTL internationalization (next-intl) and timed tests.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
 <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat-square&logo=redux&logoColor=white" />
 </p>
-
 </td>
 </tr>
 </table>
@@ -168,20 +149,11 @@
 
 <div align="center">
 
-<table border="0">
-<tr>
-<td align="center" valign="middle">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelrhmanahmed255&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-</td>
-<td align="center" valign="middle">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhmanahmed255&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=abdelrhmanahmed255&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abdelrhmanahmed255&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 
 </div>
 
