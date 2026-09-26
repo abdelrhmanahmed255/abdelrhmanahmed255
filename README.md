@@ -10,7 +10,6 @@
 <br/>
 
 <!-- Metadata Badges -->
-<img src="https://img.shields.io/badge/UNIVERSITY-ZAGAZIG_UNIVERSITY-004a99?style=for-the-badge&logo=academia&logoColor=white" alt="University" />
 <img src="https://img.shields.io/badge/LOCATION-CAIRO%2C_EGYPT_%F0%9F%87%AA%F0%9F%87%AC-F4B400?style=for-the-badge&logoColor=black" alt="Location" />
 <img src="https://img.shields.io/badge/FOCUS-FULL--STACK_%26_SAAS-00a86b?style=for-the-badge" alt="Focus" />
 
