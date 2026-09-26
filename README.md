@@ -145,17 +145,41 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 💼 Professional Experience & Impact
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h4>🏢 Taqdum Software Technology</h4>
+<p><b>Full-Stack Developer</b> | <i>May 2025 – Present</i></p>
+<ul>
+<li>Developing full-stack features for <b>Pupilera</b>, a Next.js school management SaaS platform.</li>
+<li>Engineered responsive, accessible dashboard systems using <b>Tailwind CSS &amp; shadcn/ui</b>.</li>
+<li>Integrated <b>Redux Toolkit</b> and <b>next-intl</b> for bi-directional English &amp; Arabic RTL localization.</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<h4>🇸🇦 Murashah (KSA)</h4>
+<p><b>Frontend Developer</b> | <i>Oct 2024 – Sep 2025</i></p>
+<ul>
+<li>Delivered accessible, modular React UI components and custom hooks to streamline user workflows.</li>
+<li>Collaborated closely with design teams to translate wireframes into pixel-accurate interfaces.</li>
+<li>Optimized performance and mobile responsiveness through code-splitting and asset optimization.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<h4>⚡ Engineering Standards &amp; Practices</h4>
 <div align="center">
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=abdelrhmanahmed255&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abdelrhmanahmed255&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-
+<img src="https://img.shields.io/badge/Architecture-Component--Based-1f6feb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Methodology-Agile%20%2F%20Scrum-238636?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Internationalization-RTL%20%26%20i18n-8957e5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Optimization-Performance%20%26%20SEO-d29922?style=for-the-badge" />
 </div>
+</td>
+</tr>
+</table>
 
 ---
 
